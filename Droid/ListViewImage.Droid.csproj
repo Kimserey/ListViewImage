@@ -119,6 +119,14 @@
     <AndroidResource Include="Resources\drawable-xhdpi\icon.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\icon.png" />
     <AndroidResource Include="Resources\drawable\image.jpg" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_shopping_cart_white_48dp.png" />
+    <AndroidResource Include="Resources\drawable\ic_shopping_cart_white_48dp.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_shopping_cart_white_48dp.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_shopping_cart_white_48dp.png" />
+    <AndroidResource Include="Resources\drawable\aldi.jpg" />
+    <AndroidResource Include="Resources\drawable\asda.jpg" />
+    <AndroidResource Include="Resources\drawable\tesco.jpg" />
+    <AndroidResource Include="Resources\drawable\waitrose.JPG" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Android.Support.Vector.Drawable.23.3.0\build\Xamarin.Android.Support.Vector.Drawable.targets" Condition="Exists('..\packages\Xamarin.Android.Support.Vector.Drawable.23.3.0\build\Xamarin.Android.Support.Vector.Drawable.targets')" />
