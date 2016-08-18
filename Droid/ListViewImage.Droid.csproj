@@ -127,6 +127,14 @@
     <AndroidResource Include="Resources\drawable\asda.jpg" />
     <AndroidResource Include="Resources\drawable\tesco.jpg" />
     <AndroidResource Include="Resources\drawable\waitrose.JPG" />
+    <AndroidResource Include="Resources\drawable\ic_shopping_basket_white_48dp.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_shopping_basket_white_48dp.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_shopping_basket_white_48dp.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_shopping_basket_white_48dp.png" />
+    <AndroidResource Include="Resources\drawable\ic_monetization_on_white_48dp.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_monetization_on_white_48dp.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_monetization_on_white_48dp.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_monetization_on_white_48dp.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Android.Support.Vector.Drawable.23.3.0\build\Xamarin.Android.Support.Vector.Drawable.targets" Condition="Exists('..\packages\Xamarin.Android.Support.Vector.Drawable.23.3.0\build\Xamarin.Android.Support.Vector.Drawable.targets')" />
