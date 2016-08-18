@@ -5,7 +5,7 @@ This is some layout ideas that I am experimenting with.
 
 ## Card layout for store listing
 
-![store list](https://raw.githubusercontent.com/Kimserey/ListViewImage/master/store_list.png)
+![store list](https://raw.githubusercontent.com/Kimserey/ListViewImage/master/store_list.png width="100")
 
 ## Individual store page
 
