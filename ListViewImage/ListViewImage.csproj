@@ -30,8 +30,12 @@
     <ConsolePause>false</ConsolePause>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="ListViewImage.cs" />
+    <Compile Include="App.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StorePage.cs" />
+    <Compile Include="StoreListPage.cs" />
+    <Compile Include="BasketPage.cs" />
+    <Compile Include="AddItemPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
