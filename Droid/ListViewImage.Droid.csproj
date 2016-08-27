@@ -136,6 +136,7 @@
     <AndroidResource Include="Resources\drawable-xhdpi\ic_monetization_on_white_48dp.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\ic_monetization_on_white_48dp.png" />
     <AndroidResource Include="Resources\values\colors.xml" />
+    <AndroidResource Include="Resources\drawable\ic_photo_size_select_large_black_48px.svg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Android.Support.Vector.Drawable.23.3.0\build\Xamarin.Android.Support.Vector.Drawable.targets" Condition="Exists('..\packages\Xamarin.Android.Support.Vector.Drawable.23.3.0\build\Xamarin.Android.Support.Vector.Drawable.targets')" />

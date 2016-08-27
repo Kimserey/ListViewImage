@@ -13,7 +13,7 @@ namespace ListViewImage
 	{
 		public App()
 		{
-			var content = new BasketPage();
+			var content = new StoreListPage();
 			MainPage = new NavigationPage(content);
 		}
 	}
